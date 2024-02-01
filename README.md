@@ -4,13 +4,14 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: arthur.liszkievich@gmail.com
 
-<div>
-
-<a hrmf="https://github.com/arthurliszkievich">
-
-<img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=arthurliszkievich&show_icons=true&theme=merko&include_all_commits=true&count=true&conut_private=true"/>
-
-<img heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurliszkievich&layout=compact&langs_count=168theme=merkol"/>
-
-  
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=arthurliszkievich&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=arthurliszkievich&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
