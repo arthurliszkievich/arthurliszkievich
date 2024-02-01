@@ -1,27 +1,30 @@
-### Welcome! My name is Arthur Liszkievich 👋
+<h1 align="left">Olá! Eu sou Arthur Liszkievich</h1>
+<h3 align="left">Eu sou desenvolvedor back-end!</h3>
 
-
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: arthur.liszkievich@gmail.com
-
-<div>
-<a hrmf="https://github.com/arthurliszkievich">
-
-<img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=arthurliszkievich&show_icons=true&theme=merko&include_all_commits=true&count=true&conut_private=true"/>
+<div align="center">
+  <a href="https://github.com/arthurliszkievich">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurliszkievich&show_icons=true&theme=mirko"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurliszkievich&layout=compact&langs_count=7&theme=mirko"/>
+  </a>
 </div>
 
-<div style-"display: inline_block"><br>
+<h3 align="left">Entre em contato comigo:</h3>
 
-<img align= "center" alt="Arthur-Python" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/arthur-liszkievich-9282092a5/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  </a>
+  <a href="mailto:arthur.liszkievich@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="65">
+  </a>
+</p>
 
-##
-
-<div>
-<a hrmf= "https://www.linkedin.com/in/arthur-liszkievich-9282092a5/" target="_blank">
-
-<img src ="https://img.shields.io/badge/-LinkedIn-%230077B5?style-for-the-badge&logo=linkedin&logoColor=white" target= "_blank">< </a>
-
-
-
-</div>
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
