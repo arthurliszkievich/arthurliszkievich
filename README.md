@@ -12,5 +12,8 @@
 
 <img heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurliszkievich&layout=compact&langs_count=168theme=merkol"/>
 
+
+<img align= "center" alt="Arthur-Python" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
   
 </div>
