@@ -60,7 +60,17 @@ Estou sempre em busca de <strong>novos desafios</strong> e oportunidades para <s
 
 ### 📌 Principais Projetos
 
-*Esta seção será preenchida automaticamente quando você **fixar (pin)** os seus principais repositórios no seu perfil do GitHub.*
+<p align="center">
+  <a href="https://github.com/arthurliszkievich/projeto-veterinaria">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurliszkievich&repo=projeto-veterinaria&theme=tokyonight&hide_border=true" alt="Projeto Veterinária"/>
+  </a>
+  <a href="https://github.com/arthurliszkievich/Projeto_Agenda">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurliszkievich&repo=Projeto_Agenda&theme=tokyonight&hide_border=true" alt="Projeto Agenda"/>
+  </a>
+  <a href="https://github.com/arthurliszkievich/Projeto_Blog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurliszkievich&repo=Projeto_Blog&theme=tokyonight&hide_border=true" alt="Projeto Blog"/>
+  </a>
+</p>
 
 ---
 
