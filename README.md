@@ -1,50 +1,54 @@
-<h1 align="center"> Olá! Eu sou Arthur Liszkievich 👋</h1>
-<h3 align="center">Desenvolvedor Back-End | Apaixonado por Python, Django e Soluções Robustas</h3>
+<h1 align="center">Olá! 👋 Eu sou o Arthur Liszkievich</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RtaXo1OHVzYmlqa3hycXNjaXdkbHhpOWExb3Jic3hvMDdhMWZpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100">
-</p>
-
-<p align="center">
-  Sou um desenvolvedor back-end focado em construir aplicações escaláveis e bem estruturadas. Atualmente, estou aprofundando meus conhecimentos no ecossistema Python/Django e em práticas de DevOps com Docker. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
-</p>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/arthurliszkievich">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurliszkievich&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurliszkievich&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+<h3 align="center">Desenvolvedor Back-EndPython</h3>
 
 ---
 
-<h3 align="center">🛠️ Linguagens e Ferramentas</h3>
-
-<!-- Ícones exibidos apenas como imagens, sem links -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" alt="djangorest" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+</p>
+
+<p align="center">
+Sou um desenvolvedor back-end focado em construir aplicações escaláveis e bem estruturadas.  
+Atualmente, aprofundo meus conhecimentos no ecossistema **Python/Django** e em práticas de **DevOps com Docker**.  
+Estou sempre em busca de **novos desafios** e oportunidades para **aprender e crescer** 🚀
 </p>
 
 ---
 
-<h3 align="center">📫 Entre em Contato Comigo</h3>
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arthur-liszkievich-9282092a5/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>  
-  <a href="mailto:arthur.liszkievich@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurliszkievich&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurliszkievich&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+### ⚙️ Linguagens e Ferramentas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+</p>
+
+---
+
+### 🤝 Entre em Contato Comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arthurliszkievich/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:arthurliszkievich@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
