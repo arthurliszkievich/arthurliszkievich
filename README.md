@@ -254,7 +254,7 @@ Blog profissional com sistema avançado de posts, categorias e interações.
 | ⚡ JavaScript & ReactJS | 🔐 Segurança em APIs |
 | 🧪 TDD com Pytest | ☁️ AWS & Cloud Computing |
 | 🏗️ Microsserviços | 🚀 GraphQL |
-| 📊 Redis & Cache | 🔄 Message Queues (Celery) |
+| 📊 FlaskApi | 🔄 Message Queues (Celery) |
 
 </div>
 
@@ -292,7 +292,6 @@ Blog profissional com sistema avançado de posts, categorias e interações.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurliszkievich/)
 [![Gmail](https://img.shields.io/badge/Gmail-Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurliszkievich@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Seguir-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurliszkievich)
-[![Telegram](https://img.shields.io/badge/Telegram-Contato-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arthurliszkievich)
 
 ### 💬 Ou me envie uma mensagem!
 
