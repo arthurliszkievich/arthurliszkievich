@@ -1,6 +1,6 @@
 <div align="center">
   
-# Arthur Liszkievich
+# 👋 Arthur Liszkievich
 
 ### 🚀 Back-End Software Engineer | Python • gRPC • Microsserviços • Django • FastAPI
 
@@ -158,16 +158,26 @@ Aplicação web completa para gestão de clínicas e prontuários veterinários 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurliszkievich&theme=tokyonight" alt="GitHub Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurliszkievich&theme=tokyonight" alt="Top Languages"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=arthurliszkievich&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd" alt="GitHub Streak"/>
-</div>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurliszkievich&theme=tokyonight" alt="Profile Details" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurliszkievich&theme=tokyonight" alt="Top Languages" width="400"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurliszkievich&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd" alt="Contribution Graph" width="95%"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=arthurliszkievich&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd" alt="GitHub Streak" width="815"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurliszkievich&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bb9af7&point=70a5fd" alt="Activity Graph" width="815"/>
+
 </div>
 
 ---
