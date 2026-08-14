@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Arthur Liszkievich
+#  Arthur Liszkievich
 
-### 🚀 Back-End Software Engineer | Python • gRPC • Microsserviços • Django • FastAPI
+### 🚀 Back-End Software Engineer | Python • gRPC • Microsserviços • AI-Augmented Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurliszkievich/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurliszkievich@gmail.com)
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor Back-End focado na construção de **arquiteturas distribuídas de alta performance**, **APIs RESTful** e **serviços gRPC**. Experiência prática na aplicação rigorosa de **Clean Architecture**, **SOLID**, **Design Patterns (Strategy, Repository)** e integridade transacional (ACID). Comprometido com testes automatizados, escalabilidade e conteinerização.
+Desenvolvedor Back-End focado na construção de **arquiteturas distribuídas de alta performance**, **APIs RESTful** e **serviços gRPC**. Experiência prática na aplicação rigorosa de **Clean Architecture**, **SOLID**, **Design Patterns (Strategy, Repository)** e integridade transacional (ACID). Praticante ativo de **AI-Augmented Engineering**, utilizando agentes e IDEs de IA de última geração para acelerar o ciclo de desenvolvimento, refatoração e testes com máxima precisão técnica.
 
 ```python
 class Developer:
@@ -26,7 +26,8 @@ class Developer:
             "languages": ["Python", "SQL", "Protocol Buffers", "JavaScript"],
             "backend": ["gRPC", "FastAPI", "Django", "Flask", "SQLAlchemy"],
             "databases": ["PostgreSQL", "MySQL", "SQLite", "Redis"],
-            "devops_tools": ["Docker", "Docker Compose", "Git", "GitHub Actions", "Pytest"]
+            "devops": ["Docker", "Docker Compose", "Git", "GitHub Actions", "Pytest"],
+            "ai_tools": ["Antigravity IDE", "Claude", "Kiro", "Cursor", "Agentic Coding"]
         }
     
     def core_principles(self):
@@ -35,11 +36,12 @@ class Developer:
             "⚡ Comunicação Binária de Alta Performance (gRPC / Protobuf)",
             "🎯 Princípios SOLID & Design Patterns",
             "🛡️ Transações Atômicas (ACID) & Baixa de Estoque em Tempo Real",
+            "🤖 Engenharia Aumentada por IA & Pair Programming com Agentes",
             "🐳 Conteinerização & Ambientes Isolados com Docker"
         ]
     
     def say_hi(self):
-        return "Vamos construir sistemas escaláveis e resilientes juntos! 🚀"
+        return "Vamos construir sistemas escaláveis e inteligentes juntos! 🚀"
 ```
 
 ---
@@ -47,6 +49,13 @@ class Developer:
 ## 🛠️ Stack Tecnológico
 
 <div align="center">
+
+### 🤖 AI-Assisted Engineering & IDEs de IA
+![Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro_AI-6366F1?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ### ⚡ Back-End, Comunicação & Microsserviços
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -69,7 +78,6 @@ class Developer:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -91,6 +99,18 @@ class Developer:
 </td>
 <td width="50%">
 
+### 🤖 Engenharia Aumentada por IA
+- ✅ **Pair Programming Agêntico** (Antigravity, Claude, Kiro)
+- ✅ **Engenharia de Contexto** e especificação arquitetural
+- ✅ **Refatoração Assistida por IA** com garantia de testes
+- ✅ **Geração e Validação de Testes Unitários**
+- ✅ Automação de tarefas repetitivas e pipelines CI/CD
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🏗️ Arquitetura & Engenharia de Software
 - ✅ **SOLID** (com ênfase em SRP, OCP e DIP)
 - ✅ **Design Patterns** (Strategy, Repository, Factory)
@@ -99,26 +119,14 @@ class Developer:
 - ✅ **Testes Automatizados & TDD** (100% Service Coverage)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
-### 🗄️ Bancos de Dados & ORM
+### 🗄️ Bancos de Dados & Infraestrutura
 - ✅ Modelagem relacional e integridade referencial
 - ✅ **SQLAlchemy ORM** avançado e Django ORM
-- ✅ Otimização de consultas e relacionamentos (`ForeignKeys`)
-- ✅ Migrações de schema e versionamento
-- ✅ Controle de concorrência e consistência de dados
-
-</td>
-<td width="50%">
-
-### 🐳 DevOps & Infraestrutura
-- ✅ **Docker & Docker Compose** para microsserviços e bancos
+- ✅ **Docker & Docker Compose** para isolamento total
 - ✅ **CI/CD Pipelines** com GitHub Actions
 - ✅ Versionamento semântico com **Git Flow**
-- ✅ Ambiente **Linux** nativo para desenvolvimento
-- ✅ Documentação técnica detalhada (ADRs e guias arquiteturais)
 
 </td>
 </tr>
@@ -195,7 +203,7 @@ API para gerenciamento de acervo de livros desenvolvida em **Flask**, com foco e
 
 <div align="center">
 
-💼 **Aberto a oportunidades** para posições de Back-End (Python / Microsserviços / APIs).
+💼 **Aberto a oportunidades** para posições de Back-End (Python / Microsserviços / APIs / AI-Augmented Development).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurliszkievich/)
 [![Gmail](https://img.shields.io/badge/Gmail-Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurliszkievich@gmail.com)
