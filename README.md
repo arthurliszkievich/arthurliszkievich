@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Arthur Liszkievich
+# Arthur Liszkievich
 
 ### 🚀 Back-End Software Engineer | Python • gRPC • Microsserviços • Django • FastAPI
 
@@ -128,80 +128,46 @@ class Developer:
 
 ## 🎯 Projetos em Destaque
 
-<div align="center">
-
-[![E-Commerce gRPC Backend](https://github-readme-stats.vercel.app/api/pin/?username=arthurliszkievich&repo=ecommerce-grpc&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/arthurliszkievich/ecommerce-grpc)
-[![Flask Books API](https://github-readme-stats.vercel.app/api/pin/?username=arthurliszkievich&repo=flask-books-api&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/arthurliszkievich/flask-books-api)
-
-[![Projeto Veterinária](https://github-readme-stats.vercel.app/api/pin/?username=arthurliszkievich&repo=projeto-veterinaria&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/arthurliszkievich/projeto-veterinaria)
-[![Projeto Blog](https://github-readme-stats.vercel.app/api/pin/?username=arthurliszkievich&repo=Projeto_Blog&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/arthurliszkievich/Projeto_Blog)
-
-</div>
-
-### 🔍 Detalhes dos Projetos
-
-<details open>
-<summary><b>🛒 E-Commerce Microservice - gRPC & PostgreSQL (Destaque)</b></summary>
-<br>
-
+### 🛒 [E-Commerce Microservice - gRPC & PostgreSQL](https://github.com/arthurliszkievich/ecommerce-grpc)
 Backend completo de e-commerce construído com foco em **alta performance**, **arquitetura em camadas** e **comunicação binária via gRPC**.
 
-**🔧 Tecnologias**: Python, gRPC, Protocol Buffers, PostgreSQL (Docker), SQLAlchemy, SOLID  
-**✨ Features**:
-- ✅ Comunicação binária ultra-rápida via gRPC/Protobuf
-- ✅ Arquitetura em camadas: `Models` ➔ `Repositories` ➔ `Services` ➔ `Validators` ➔ `gRPC Servicers`
-- ✅ **Baixa de Estoque Atômica:** Controle transacional com rollback automático em caso de falta de estoque
-- ✅ **Sistema de Descontos Extensível (OCP):** Padrão *Strategy* para cálculo dinâmico de cupons e descontos
-- ✅ Persistência relacional em PostgreSQL isolado via container Docker
+- **Tecnologias:** Python, gRPC, Protocol Buffers, PostgreSQL (Docker), SQLAlchemy, SOLID
+- **Destaques:**
+  - ✅ Comunicação binária ultra-rápida via gRPC/Protobuf
+  - ✅ Arquitetura em camadas: `Models` ➔ `Repositories` ➔ `Services` ➔ `Validators` ➔ `gRPC Servicers`
+  - ✅ **Baixa de Estoque Atômica:** Controle transacional com rollback automático em caso de falta de estoque
+  - ✅ **Sistema de Descontos Extensível (OCP):** Padrão *Strategy* para cálculo dinâmico de cupons e descontos
+  - ✅ Persistência relacional em PostgreSQL isolado via container Docker
 
-**📖 [Acessar Repositório](https://github.com/arthurliszkievich/ecommerce-grpc)**
+---
 
-</details>
-
-<details>
-<summary><b>📚 Flask Books API - RESTful API com Flask</b></summary>
-<br>
-
+### 📚 [Flask Books API - RESTful API com Flask](https://github.com/arthurliszkievich/flask-books-api)
 API para gerenciamento de acervo de livros com **Flask**, seguindo boas práticas de arquitetura RESTful.
+- **Tecnologias:** Python, Flask, PostgreSQL, Docker, Pytest, GitHub Actions
+- **Destaques:** CRUD completo, testes automatizados (>85% coverage), containerização com Docker e CI/CD.
 
-**🔧 Tecnologias**: Python, Flask, PostgreSQL, Docker, Pytest  
-**✨ Features**:
-- ✅ API RESTful completa com autenticação
-- ✅ Testes automatizados com Pytest (>85% coverage)
-- ✅ Containerização completa com Docker
-- ✅ CI/CD via GitHub Actions
+---
 
-**📖 [Acessar Repositório](https://github.com/arthurliszkievich/flask-books-api)**
-
-</details>
-
-<details>
-<summary><b>🏥 Sistema de Gestão Veterinária</b></summary>
-<br>
-
+### 🏥 [Sistema de Gestão Veterinária](https://github.com/arthurliszkievich/projeto-veterinaria)
 Aplicação web completa para gestão de clínicas e prontuários veterinários desenvolvida em **Django**.
-
-**🔧 Tecnologias**: Python, Django, PostgreSQL, Bootstrap  
-**✨ Features**:
-- ✅ CRUD completo de clientes, animais e consultas
-- ✅ Histórico médico e agendamentos
-- ✅ Painel administrativo e relatórios
-
-**📖 [Acessar Repositório](https://github.com/arthurliszkievich/projeto-veterinaria)**
-
-</details>
+- **Tecnologias:** Python, Django, PostgreSQL, Bootstrap
+- **Destaques:** CRUD completo de clientes, animais e consultas, prontuário médico e agendamentos.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurliszkievich&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurliszkievich&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurliszkievich&theme=tokyonight" alt="GitHub Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurliszkievich&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurliszkievich&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=arthurliszkievich&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurliszkievich&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd" alt="Contribution Graph" width="95%"/>
 </div>
 
 ---
