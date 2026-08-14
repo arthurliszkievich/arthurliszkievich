@@ -94,9 +94,9 @@ class Developer:
 ### 🏗️ Arquitetura & Engenharia de Software
 - ✅ **SOLID** (com ênfase em SRP, OCP e DIP)
 - ✅ **Design Patterns** (Strategy, Repository, Factory)
-- ✅ **Clean Code** e separação em camadas
+- ✅ **Clean Architecture** e Service Layer isolada
 - ✅ **Transações Atômicas (ACID)** com Rollback seguro
-- ✅ **Testes Automatizados & TDD**
+- ✅ **Testes Automatizados & TDD** (100% Service Coverage)
 
 </td>
 </tr>
@@ -105,7 +105,7 @@ class Developer:
 
 ### 🗄️ Bancos de Dados & ORM
 - ✅ Modelagem relacional e integridade referencial
-- ✅ **SQLAlchemy ORM** avançado e sessões
+- ✅ **SQLAlchemy ORM** avançado e Django ORM
 - ✅ Otimização de consultas e relacionamentos (`ForeignKeys`)
 - ✅ Migrações de schema e versionamento
 - ✅ Controle de concorrência e consistência de dados
@@ -114,11 +114,11 @@ class Developer:
 <td width="50%">
 
 ### 🐳 DevOps & Infraestrutura
-- ✅ **Docker** para isolamento de bancos e aplicações
-- ✅ **Docker Compose** para orquestração de ambientes
+- ✅ **Docker & Docker Compose** para microsserviços e bancos
 - ✅ **CI/CD Pipelines** com GitHub Actions
 - ✅ Versionamento semântico com **Git Flow**
 - ✅ Ambiente **Linux** nativo para desenvolvimento
+- ✅ Documentação técnica detalhada (ADRs e guias arquiteturais)
 
 </td>
 </tr>
@@ -131,7 +131,7 @@ class Developer:
 ### 🛒 [E-Commerce Microservice - gRPC & PostgreSQL](https://github.com/arthurliszkievich/ecommerce-grpc)
 Backend completo de e-commerce construído com foco em **alta performance**, **arquitetura em camadas** e **comunicação binária via gRPC**.
 
-- **Tecnologias:** Python, gRPC, Protocol Buffers, PostgreSQL (Docker), SQLAlchemy, SOLID
+- **Tecnologias:** Python 3.12, gRPC, Protocol Buffers, PostgreSQL (Docker), SQLAlchemy, SOLID
 - **Destaques:**
   - ✅ Comunicação binária ultra-rápida via gRPC/Protobuf
   - ✅ Arquitetura em camadas: `Models` ➔ `Repositories` ➔ `Services` ➔ `Validators` ➔ `gRPC Servicers`
@@ -141,17 +141,26 @@ Backend completo de e-commerce construído com foco em **alta performance**, **a
 
 ---
 
-### 📚 [Flask Books API - RESTful API com Flask](https://github.com/arthurliszkievich/flask-books-api)
-API para gerenciamento de acervo de livros com **Flask**, seguindo boas práticas de arquitetura RESTful.
-- **Tecnologias:** Python, Flask, PostgreSQL, Docker, Pytest, GitHub Actions
-- **Destaques:** CRUD completo, testes automatizados (>85% coverage), containerização com Docker e CI/CD.
+### 🐾 [ZoeVet - Gestão Veterinária & Suporte à Decisão Clínica](https://github.com/arthurliszkievich/projeto-veterinaria)
+Sistema robusto de gestão clínica com **Clean Architecture**, **Service Layer Pattern** e motor inteligente de diagnóstico baseado em estatística clínica.
+
+- **Tecnologias:** Python 3.12, Django 5, DRF, PostgreSQL 16, Docker Compose, Pytest, GitHub Actions
+- **Destaques:**
+  - 🧠 **Motor de Diagnóstico Inteligente:** Algoritmo baseado em **F1-Score** que correlaciona sintomas e sugere diagnósticos clínicos balanceando precisão e sensibilidade
+  - 🏛️ **Clean Architecture & Service Layer:** Regras de negócio 100% isoladas (`DiagnosticoService`, `ConsultaService`, `TutorService`), reduzindo em 67% o acoplamento das Views
+  - 🧪 **100% de Cobertura de Testes** na Service Layer com Pytest
+  - 🐳 **Ambiente Conteinerizado:** Docker Compose configurado para dev e prod com PostgreSQL 16 e pipeline CI/CD ativa
+  - 📚 **Technical Deep Dive:** Documentação arquitetural profunda explicando decisões de design, trade-offs e benchmarks
 
 ---
 
-### 🏥 [Sistema de Gestão Veterinária](https://github.com/arthurliszkievich/projeto-veterinaria)
-Aplicação web completa para gestão de clínicas e prontuários veterinários desenvolvida em **Django**.
-- **Tecnologias:** Python, Django, PostgreSQL, Bootstrap
-- **Destaques:** CRUD completo de clientes, animais e consultas, prontuário médico e agendamentos.
+### 📚 [Flask Books API - RESTful API com Flask](https://github.com/arthurliszkievich/flask-books-api) `[🚧 Em Desenvolvimento]`
+API para gerenciamento de acervo de livros desenvolvida em **Flask**, com foco em arquitetura RESTful e testes automatizados.
+- **Tecnologias:** Python, Flask, PostgreSQL, Docker, Pytest, GitHub Actions
+- **Status & Roadmap:**
+  - 🚧 Modelagem de banco de dados e endpoints CRUD
+  - ⏳ Implementação de suíte de testes com Pytest
+  - ⏳ Containerização com Docker e pipeline CI/CD
 
 ---
 
