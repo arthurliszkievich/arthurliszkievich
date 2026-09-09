@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor Back-End focado na construção de **arquiteturas distribuídas de alta performance**, **APIs RESTful** e **serviços gRPC**. Experiência prática na aplicação rigorosa de **Clean Architecture**, **SOLID**, **Design Patterns (Strategy, Repository)** e integridade transacional (ACID).
+Desenvolvedor Back-End focado na construção de **arquiteturas distribuídas de alta performance**, **APIs RESTful** e **serviços gRPC**. Experiência prática na aplicação rigorosa de **Clean Architecture**, **SOLID**, **Design Patterns (Strategy, Repository)**, **integridade transacional (ACID)** e **defesa em profundidade**.
 
 ```python
 class Developer:
@@ -34,12 +34,13 @@ class Developer:
             "🏗️ Clean Architecture & Layered Services",
             "⚡ Comunicação Binária de Alta Performance (gRPC / Protobuf)",
             "🎯 Princípios SOLID & Design Patterns",
-            "🛡️ Transações Atômicas (ACID) & Baixa de Estoque em Tempo Real",
+            "🛡️ Transações Atômicas (ACID) & Defesa em Profundidade",
+            "⏱️ Caching Estratégico (TTL Assimétrico) & Resiliência a Rate-Limit",
             "🐳 Conteinerização & Ambientes Isolados com Docker"
         ]
     
     def say_hi(self):
-        return "Vamos construir sistemas escaláveis e inteligentes juntos! 🚀"
+        return "Vamos construir sistemas escaláveis, resilientes e inteligentes juntos! 🚀"
 ```
 
 ---
@@ -89,9 +90,10 @@ class Developer:
 ### ⚡ Comunicação & Microsserviços
 - ✅ **gRPC & Protocol Buffers** de alta performance
 - ✅ **APIs RESTful** padronizadas e documentadas
-- ✅ **Autenticação Segura** (JWT, Hashing de Senhas)
+- ✅ **Resiliência de API & Rate-Limiting:** Backoff para HTTP 429 e fallbacks sem perda de sessão
+- ✅ **Cache Estratégico & TTL Assimétrico:** Políticas de expiração otimizadas para balancear latência e tempo real
+- ✅ **Autenticação Segura & OAuth2:** Integração com provedores externos (Discord API, JWT)
 - ✅ **Injeção de Dependências** e desacoplamento
-- ✅ **Tratamento de Exceções** e Status Codes apropriados
 
 </td>
 <td width="50%">
@@ -100,6 +102,7 @@ class Developer:
 - ✅ **SOLID** (com ênfase em SRP, OCP e DIP)
 - ✅ **Design Patterns** (Strategy, Repository, Factory)
 - ✅ **Clean Architecture** e Service Layer isolada
+- ✅ **Defesa em Profundidade (Defense-in-Depth):** Proteção de ativos críticos, coleções imutáveis (`frozenset`) e filtros defensivos
 - ✅ **Transações Atômicas (ACID)** com Rollback seguro
 - ✅ **Testes Automatizados & TDD** (100% Service Coverage)
 
@@ -156,6 +159,18 @@ Sistema robusto de gestão clínica com **Clean Architecture**, **Service Layer 
   - 🧪 **100% de Cobertura de Testes** na Service Layer com Pytest
   - 🐳 **Ambiente Conteinerizado:** Docker Compose configurado para dev e prod com PostgreSQL 16 e pipeline CI/CD ativa
   - 📚 **Technical Deep Dive:** Documentação arquitetural profunda explicando decisões de design, trade-offs e benchmarks
+
+---
+
+### 🛡️ [Yoda Engine & Dokkan Bot - Resiliência, Caching & Confiabilidade](https://github.com/micahlezama/othertests)
+Engenharia de confiabilidade, proteção de recursos críticos e integração resiliente com APIs de alto tráfego em sistemas de automação.
+
+- **Tecnologias:** Python 3.12, OAuth2 / REST APIs, Pathlib, InMemory TTL Cache, Defense-in-Depth
+- **Destaques:**
+  - 🛡️ **Defesa em Profundidade:** Implementação de camadas de filtragem defensiva com coleções imutáveis (`frozenset`), eliminando risco de consumo acidental de ativos raros de contas
+  - ⏱️ **Cache TTL Assimétrico & Fast Path:** Redução drástica de I/O e chamadas de rede com tempos de expiração diferenciados por nível de usuário (300s para membros VIP/APEX vs. 5s para Free)
+  - 🚦 **Escudo Anti-Downgrade & Rate-Limit:** Tratamento inteligente de HTTP 429 (*Too Many Requests*) e resiliência a falhas de rede (`RequestException`), preservando o estado do usuário sem rebaixamento indevido
+  - 📂 **Resolução de Caminhos Agnóstica:** Sistema multi-candidato tolerante a falhas para localização de credenciais em qualquer diretório de execução
 
 ---
 
