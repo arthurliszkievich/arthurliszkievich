@@ -209,6 +209,4 @@ class Developer:
 
 <br/><br/>
 
-[![Voltar ao topo](https://img.shields.io/badge/⬆_Voltar_ao_topo-2c5364?style=for-the-badge)](#-arthur-liszkievich)
-
 </div>
