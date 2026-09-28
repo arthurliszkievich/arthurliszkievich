@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arthur%20Liszkievich&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20%26%20Systems%20Engineer&descAlignY=58&descSize=20" alt="header" />
+<img src="./header.svg" alt="Arthur Liszkievich - Back-End & Systems Engineer" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Python+%E2%80%A2+Django+%E2%80%A2+DRF+%E2%80%A2+gRPC;Criptografia+%E2%80%A2+Engenharia+Reversa+%E2%80%A2+APIs;Clean+Architecture+%E2%80%A2+SOLID+%E2%80%A2+Testes" alt="Typing SVG" />
@@ -173,10 +173,12 @@ class Developer:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arthurliszkievich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurliszkievich&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurliszkievich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurliszkievich&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com/?user=arthurliszkievich&theme=tokyonight&hide_border=true" alt="streak" />
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=arthurliszkievich&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -194,6 +196,6 @@ class Developer:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
+<img src="./footer.svg" alt="footer" width="100%" />
 
 </div>
