@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Arthur Liszkievich
+# Arthur Liszkievich
 
 ### 🚀 Back-End & Systems Engineer
 
@@ -198,6 +198,6 @@ class Developer:
 
 ---
 
-<sub>Feito com 🐍 e ☕ por Arthur Liszkievich</sub>
+<sub>Feito por Arthur Liszkievich</sub>
 
 </div>
