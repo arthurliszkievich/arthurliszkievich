@@ -181,7 +181,7 @@ class Developer:
 
 <img src="https://ghchart.rshah.org/2c5364/arthurliszkievich" alt="contribution chart" width="100%" />
 
-<sub>💡 Alguns cards de estatística do GitHub (como o <code>github-readme-stats.vercel.app</code>) sofrem rate-limit do serviço público e podem aparecer quebrados temporariamente — isso não é um erro do seu perfil.</sub>
+<sub>💡 Alguns cards de estatística do GitHub (como o <code>github-readme-stats.vercel.app</code>) </sub>
 
 </div>
 
@@ -203,7 +203,7 @@ class Developer:
 
 <div align="center">
 
-### 🐍 Feito com Python, café e muita curiosidade técnica
+### 🐍 Feito com Python e muita curiosidade técnica!
 
 <sub>Este README é um documento vivo — atualizado conforme evoluo como desenvolvedor.</sub>
 
