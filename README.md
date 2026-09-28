@@ -1,200 +1,199 @@
 <div align="center">
-  
-# Arthur Liszkievich
 
-### 🚀 Back-End & Systems Engineer | Python • Criptografia • Engenharia Reversa • APIs de Alta Performance
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arthur%20Liszkievich&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20%26%20Systems%20Engineer&descAlignY=58&descSize=20" alt="header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Python+%E2%80%A2+Django+%E2%80%A2+DRF+%E2%80%A2+gRPC;Criptografia+%E2%80%A2+Engenharia+Reversa+%E2%80%A2+APIs;Clean+Architecture+%E2%80%A2+SOLID+%E2%80%A2+Testes" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurliszkievich/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurliszkievich@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurliszkievich)
 
+![Visitas](https://komarev.com/ghpvc/?username=arthurliszkievich&label=Visitas&color=2c5364&style=flat-square)
+
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre mim
 
-Desenvolvedor Back-End e Engenheiro de Sistemas focado na construção de **arquiteturas de alta performance**, **engenharia reversa de APIs proprietárias**, **protocolos criptográficos (AES/HMAC)** e **microsserviços gRPC/RESTful**. Atuo como **Core Developer** em soluções de automação headless multiplataforma (Windows/Linux/Android Termux), aplicando princípios rígidos de **Clean Architecture**, **SOLID**, **resiliência de rede**, **bancos de dados relacionais e cifrados (SQLCipher)** e **defesa em profundidade**.
+Desenvolvedor **Back-End** focado em **arquiteturas de alta performance**, **APIs REST e gRPC**, **criptografia aplicada (AES/HMAC)** e **automação headless multiplataforma** (Windows, Linux e Android/Termux). Aplico **Clean Architecture**, **SOLID**, **resiliência de rede** e **defesa em profundidade** no dia a dia.
+
+Cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
 
 ```python
 class Developer:
-    def __init__(self):
-        self.name = "Arthur Liszkievich"
-        self.role = "Back-End & Systems Software Engineer"
-        self.education = "Análise e Desenvolvimento de Sistemas (ADS)"
-        self.location = "Brasil 🇧🇷"
-        self.stack = {
-            "languages": ["Python", "SQL", "Bash / Shell", "Protocol Buffers", "C (Cython bindings)"],
-            "backend": ["FastAPI", "Flask", "gRPC", "Django", "SQLAlchemy", "Peewee ORM"],
-            "security_crypto": ["AES-CBC", "HMAC-SHA", "PyCryptodome", "SQLCipher", "OAuth2 (CDP)"],
-            "databases": ["PostgreSQL", "SQLite / Encrypted DB", "MySQL"],
-            "infrastructure": ["Docker", "Linux (Ubuntu/Termux ARM64)", "Git", "GitHub Actions", "Pytest"]
-        }
-    
-    def core_principles(self):
-        return [
-            "🛡️ Engenharia Reversa Ética & Comunicação Headless via REST Criptografado",
-            "⚡ Algoritmos Heurísticos & Otimização Combinatória Multicritério",
-            "🔐 Criptografia Aplicada (AES, HMAC) & Leitura de Bancos Cifrados",
-            "⏱️ Resiliência de Rede: Interceptores de Token, Retry com Jitter & Escudo 429",
-            "📱 Multiplataforma Nativo: Suporte a Ambientes Restritos (Android/Termux)",
-            "🏗️ Clean Architecture, SOLID & Defesa em Profundidade"
-        ]
-    
-    def say_hi(self):
-        return "Transformando desafios complexos de redes, criptografia e sistemas em software resiliente e escalável! 🚀"
+    name = "Arthur Liszkievich"
+    role = "Back-End & Systems Software Engineer"
+    education = "Análise e Desenvolvimento de Sistemas (ADS)"
+    location = "Brasil 🇧🇷"
 
-🛠️ Stack Tecnológico
+    stack = {
+        "languages": ["Python", "SQL", "Bash", "Protocol Buffers"],
+        "backend": ["Django", "DRF", "FastAPI", "Flask", "gRPC", "SQLAlchemy", "Peewee"],
+        "security": ["AES-CBC", "HMAC-SHA", "PyCryptodome", "SQLCipher", "OAuth2"],
+        "databases": ["PostgreSQL", "SQLite", "MySQL"],
+        "infra": ["Docker", "Linux", "Git", "GitHub Actions", "Pytest"],
+    }
 
-⚡ Back-End, Redes & Comunicação
+    principles = [
+        "🏗️ Clean Architecture, SOLID e Service Layer",
+        "🔐 Criptografia aplicada e bancos cifrados",
+        "⏱️ Resiliência: retry com jitter, renovação de token, cache TTL",
+        "📱 Multiplataforma, inclusive ambientes restritos (Termux ARM64)",
+        "🧪 Testes automatizados e CI/CD",
+    ]
+```
 
-Python gRPC Protocol Buffers FastAPI Flask Django Requests
+---
 
-🔐 Criptografia, Segurança & Autenticação
+## 🛠️ Stack
 
-PyCryptodome SQLCipher OAuth2 Security
+<div align="center">
 
-🗄️ Bancos de Dados & ORMs
+<img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,postgres,sqlite,mysql,docker,linux,bash,git,github,githubactions&perline=13" alt="stack" />
 
-PostgreSQL SQLAlchemy Peewee SQLite
+<br/><br/>
 
-🐳 Infraestrutura, Mobile & DevOps
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+![Protobuf](https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat-square&logo=google&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=android&logoColor=white)
 
-Linux Android ARM64 Docker Bash Git GitHub Actions Pytest
+**🤖 Engenharia aumentada por IA:** Claude · Antigravity · Kiro
 
-🤖 Engenharia Aumentada por IA & Ferramentas
+</div>
 
-Claude Antigravity Kiro
+---
 
-💼 Expertise & Arquitetura
+## 💼 Expertise
 
-🔐 Engenharia Reversa & Criptografia
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  - ✅ Comunicação REST Proprietária: Consumo e montagem de payloads HTTP
-    criptografados (AES-CBC + assinaturas HMAC)
-  - ✅ Bancos Cifrados (SQLCipher): Queries relacionais em tempo real contra
-    assets de jogos criptografados via Peewee ORM
-  - ✅ CDP Stealth Login: Interceptação assíncrona de OAuth2 via Chrome DevTools
-    Protocol, eliminando detecções de bot
-  - ✅ Decodificadores em Camadas: Parser defensivo com suporte a custom schemes
-    (com.googleusercontent.apps...), URL encoding e regex
+### 🔐 Criptografia & Engenharia Reversa
+- **REST proprietário:** montagem e consumo de payloads criptografados (AES-CBC + HMAC)
+- **SQLCipher:** consultas relacionais via Peewee em bancos cifrados
+- **OAuth2 via CDP:** captura de códigos de autorização com Chrome DevTools Protocol
+- **Parser em camadas:** custom schemes, URL encoding e regex
 
-🧠 Algoritmos Heurísticos & Lógica de Negócio
+</td>
+<td width="50%" valign="top">
 
-  - ✅ Seleção Multicritério: Ranqueamento de inventários por tupla hierárquica
-    (Raridade, Nível, SA, Potencial)
-  - ✅ Resolução de Condições "OU": Heurística que analisa pools alternativos e
-    elege a categoria com maior score acumulado
-  - ✅ Automação Combinatória de Combate: Algoritmo cíclico de vantagem elemental
-    (PHY \rightarrow INT \rightarrow TEQ \rightarrow AGL \rightarrow STR)
-  - ✅ Defesa em Profundidade: Guard clauses, prevenção de corrupção de decks e
-    proteção estrita de ativos raros (frozenset)
+### 🧠 Algoritmos & Regras de Negócio
+- **Seleção multicritério:** ranking por tupla hierárquica (raridade, nível, SA, potencial)
+- **Condições "OU":** heurística que elege a categoria com maior score acumulado
+- **Ciclo de vantagem elemental:** PHY → INT → TEQ → AGL → STR
+- **Defesa em profundidade:** guard clauses e proteção de ativos raros com `frozenset`
 
-⚡ Resiliência de Redes & Confiabilidade
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-  - ✅ Lifecycle de Tokens Transparente: Interceptor mid_handler com renovação de
-    Bearer token e reenvio atômico de requests
-  - ✅ Escudo Anti-429 (Too Many Requests): Cache TTL em memória (300s) mitigando
-    saturação da API do Discord
-  - ✅ Jitter Humano & Anti-Ban: Injeção randômica de pausas comportamentais em
-    loops de automação
-  - ✅ Fallback Gracioso de Estados: Preservação de níveis de assinatura em caso
-    de oscilações de rede externa
+### ⚡ Resiliência & Confiabilidade
+- **Ciclo de vida de tokens:** interceptor `mid_handler` com renovação de Bearer e reenvio atômico
+- **Anti-429:** cache TTL em memória (300s) protegendo a API do Discord
+- **Retry com jitter:** pausas aleatórias em loops de automação
+- **Fallback gracioso:** preserva estado em oscilações de rede
 
-📱 Engenharia de Sistemas & Multiplataforma
+</td>
+<td width="50%" valign="top">
 
-  - ✅ Distribuição Nativa em Android (Termux): Eliminação de armadilhas de
-    compilação Rust/Maturin no ARM64 (Python 3.13)
-  - ✅ Carregamento Dinâmico Resiliente: Desacoplamento de dependências de
-    desktop para carregamento headless de 65+ módulos
-  - ✅ Gatekeeper de Paywall Multi-Tier: Validação nativa de cargos Discord
-    (Free, Mobile Tier, VIP, APEX)
-  - ✅ Release Management & SemVer: Gestão de ciclo de vida com separação de
-    patch releases (v1.4.7) e major overhauls (v2.0)
+### 📱 Sistemas & Multiplataforma
+- **Android (Termux):** solução para a compilação Rust/Maturin no ARM64 (Python 3.13)
+- **Carregamento dinâmico:** 65+ módulos headless, sem dependências de desktop
+- **Gatekeeper multi-tier:** validação de cargos Discord (Free, Mobile, VIP, APEX)
+- **Release management:** SemVer, patches (v1.4.7) e major (v2.0)
 
-🎯 Projetos em Destaque
+</td>
+</tr>
+</table>
 
-🛡️ Yoda Engine & Dokkan Bot - Engenharia Reversa, Criptografia & Automação Headless
+---
 
-Papel: Core Developer | Ferramenta de automação de alta performance e engenharia
-reversa para o jogo mobile Dragon Ball Z Dokkan Battle (Bandai/Akatsuki).
+## 🎯 Projetos em destaque
 
-  - Tecnologias: Python 3.9/3.12, PyCryptodome (AES/HMAC), Peewee ORM, SQLCipher
-    (gb.db), Chrome DevTools Protocol (CDP), Android Termux (ARM64), Flask,
-    Linux Ubuntu
-  - Principais Contribuições Técnicas:
-      - ⚔️ Overhaul do Ultimate Clash (rmbattles): Correção de inversão
-        semântica crítica no payload /finish (damage vs remaining_hp),
-        integração do módulo criptográfico crypto.decrypt_sign() e algoritmo de
-        seleção de time por ciclo elemental Dokkan
-        (PHY \rightarrow INT \rightarrow TEQ \rightarrow AGL \rightarrow STR)
-        com pausas anti-ban humanas.
-      - 🧠 Smart Category Auto-Team Builder (smart_team.py): Parser automático de
-        missões endgame (Red Zone, Festival of Battles), cruzamento com banco
-        cifrado gb.db via Peewee, resolução heurística de condições "OU" (elege
-        a categoria com as 6 melhores cartas da box) e correção de deck chumbado
-        no change_team.py respeitando config.deck.
-      - 🔑 Google OAuth2 Stealth via CDP: Captura furtiva de códigos de
-        autorização em redirects custom scheme via Chrome DevTools Protocol
-        Performance Logs, contornando a proteção antibot do Google com
-        decodificação em 4 camadas (extract_code).
-      - 🚦 Resiliência de Rede & Interceptor de Sessão: mid_handler com renovação
-        transparente de Bearer token ao receber invalid_token, eliminando quedas
-        em farms noturnos, e injeção de cache TTL (300s) blindando o bot contra
-        HTTP 429 no Discord.
-      - 📱 Engenharia de Infraestrutura Mobile (Termux): Desacoplamento da
-        armadilha de compilação Rust/Maturin no Python 3.13, resolução de
-        dependências de desktop (selenium, FreeSimpleGUI) elevando os comandos
-        carregados no Android de 8 para mais de 65, e gatekeeper de cargos
-        Discord (Mobile Role 1541822826154303488 vs. VIP/APEX).
-      - 💎 1-Click Hidden Potential Pipeline: Arquitetura moderna alinhada às
-        regras atualizadas da API (v5.31+ e v6.2.0), consumindo cópias repetidas
-        diretamente pela trilha evolutiva (growth path) sem necessidade de
-        reversões legadas ou ampulhetas.
+### 🛡️ Yoda Engine & Dokkan Bot
+> Automação headless e engenharia reversa de protocolo para *Dragon Ball Z Dokkan Battle*.
 
-🛒 E-Commerce Microservice - gRPC & PostgreSQL
+**Papel:** Core Developer  
+**Tecnologias:** `Python` `PyCryptodome` `Peewee` `SQLCipher` `CDP` `Flask` `Termux ARM64` `Linux`
 
-Backend completo de e-commerce construído com foco em alta performance,
-arquitetura em camadas e comunicação binária via gRPC.
+<details>
+<summary><b>Ver principais contribuições técnicas</b></summary>
+<br/>
 
-  - Tecnologias: Python 3.12, gRPC, Protocol Buffers, PostgreSQL (Docker),
-    SQLAlchemy, SOLID
-  - Destaques:
-      - ⚡ Comunicação binária de baixa latência e tipagem estrita com gRPC e
-        Protobuf
-      - 🏛️ Arquitetura em camadas: Models ➔ Repositories ➔ Services ➔ Validators
-        ➔ gRPC Servicers
-      - 🛡️ Baixa de Estoque Atômica: Controle transacional com rollback
-        automático garantindo consistência ACID
-      - 🎯 Padrão Strategy (OCP): Motor extensível para cálculo dinâmico de
-        cupons, descontos e regras de checkout
-      - 🐳 Persistência relacional em PostgreSQL isolado via container Docker
+| | Contribuição | Detalhes |
+|---|---|---|
+| ⚔️ | **Overhaul do Ultimate Clash** | Correção de inversão semântica no payload `/finish` (`damage` vs `remaining_hp`), integração de `crypto.decrypt_sign()` e seleção de time por ciclo elemental com pausas humanas |
+| 🧠 | **Smart Category Auto-Team Builder** | Parser de missões endgame, cruzamento com o banco cifrado via Peewee, resolução heurística de condições "OU" e correção de deck fixo em `change_team.py` respeitando `config.deck` |
+| 🔑 | **Google OAuth2 via CDP** | Captura de códigos em redirects de custom scheme pelos Performance Logs do Chrome, com decodificação em 4 camadas (`extract_code`) |
+| 🚦 | **Interceptor de sessão** | `mid_handler` com renovação transparente de token em `invalid_token` e cache TTL de 300s contra HTTP 429 |
+| 📱 | **Infra mobile (Termux)** | Contorno da compilação Rust/Maturin no Python 3.13 e resolução de dependências de desktop: de 8 para mais de 65 comandos no Android |
+| 💎 | **Hidden Potential em 1 clique** | Pipeline alinhado às regras da API (v5.31+ e v6.2.0), consumindo cópias pela trilha evolutiva sem reversões legadas |
 
-🐾 ZoeVet - Gestão Veterinária & Suporte à Decisão Clínica
+</details>
 
-Sistema completo de gestão clínica veterinária baseado em Clean Architecture,
-Service Layer Pattern e motor estatístico de diagnóstico.
+<br/>
 
-  - Tecnologias: Python 3.12, Django 5, DRF, PostgreSQL 16, Docker Compose,
-    Pytest, GitHub Actions
-  - Destaques:
-      - 🧠 Motor de Diagnóstico Baseado em F1-Score: Algoritmo estatístico que
-        correlaciona múltiplos sintomas para sugerir diagnósticos clínicos
-        balanceando precisão e sensibilidade
-      - 🏛️ Service Layer Isolada: Desacoplamento total de regras de negócio
-        (DiagnosticoService, ConsultaService, TutorService), reduzindo em 67% a
-        complexidade das Views
-      - 🧪 100% de Cobertura de Testes na camada de serviços com Pytest
-      - 🐳 Ambiente Conteinerizado & CI/CD: Docker Compose estruturado para dev e
-        prod com PostgreSQL 16 e automação via GitHub Actions
+### 🛒 E-Commerce Microservice
+> Backend de e-commerce com comunicação binária via gRPC e arquitetura em camadas.
 
-📊 GitHub Analytics
+**Tecnologias:** `Python 3.12` `gRPC` `Protobuf` `PostgreSQL` `SQLAlchemy` `Docker`
 
-📫 Vamos Conversar?
+- ⚡ **gRPC + Protobuf:** baixa latência e tipagem estrita
+- 🏛️ **Camadas:** `Models → Repositories → Services → Validators → gRPC Servicers`
+- 🛡️ **Baixa de estoque atômica:** transações com rollback automático (ACID)
+- 🎯 **Strategy (OCP):** motor extensível para cupons, descontos e regras de checkout
+- 🐳 **PostgreSQL em container** isolado
 
-💼 Aberto a oportunidades como Desenvolvedor Back-End / Engenheiro de Software
-(Python / APIs / Engenharia Reversa / Microsserviços).
+<br/>
 
-LinkedIn Gmail GitHub
+### 🐾 ZoeVet
+> Gestão clínica veterinária com suporte à decisão diagnóstica.
 
-Engenharia construída com rigor técnico por Arthur Liszkievich 🚀
+**Tecnologias:** `Python 3.12` `Django 5` `DRF` `PostgreSQL 16` `Docker Compose` `Pytest` `GitHub Actions`
+
+- 🧠 **Motor de diagnóstico com F1-Score:** correlaciona sintomas equilibrando precisão e sensibilidade
+- 🏛️ **Service Layer isolada:** `DiagnosticoService`, `ConsultaService` e `TutorService`, com redução de 67% na complexidade das Views
+- 🧪 **100% de cobertura** na camada de serviços com Pytest
+- 🐳 **Docker Compose** para dev e prod, com CI/CD no GitHub Actions
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arthurliszkievich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurliszkievich&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+
+<img src="https://streak-stats.demolab.com/?user=arthurliszkievich&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+---
+
+## 📫 Vamos conversar?
+
+💼 Aberto a oportunidades como **Desenvolvedor Back-End / Engenheiro de Software** (Python, APIs, microsserviços).
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurliszkievich/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurliszkievich@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurliszkievich)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
+
+</div>
