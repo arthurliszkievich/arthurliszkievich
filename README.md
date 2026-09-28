@@ -1,6 +1,6 @@
 <div align="center">
 
-# Arthur Liszkievich
+#  Arthur Liszkievich
 
 ### 🚀 Back-End & Systems Engineer
 
@@ -57,9 +57,7 @@ class Developer:
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,postgres,sqlite,mysql,docker,linux,bash,git,github,githubactions&perline=13" alt="stack" />
-
-<br/><br/>
-
+<br/>
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
 ![Protobuf](https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat-square&logo=google&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
@@ -67,8 +65,13 @@ class Developer:
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=android&logoColor=white)
+<br/>
 
-**🤖 Engenharia aumentada por IA:** Claude · Antigravity · Kiro
+**🤖 Engenharia aumentada por IA**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-6E56CF?style=flat-square&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -198,6 +201,6 @@ class Developer:
 
 ---
 
-<sub>Feito por Arthur Liszkievich</sub>
+<sub>Feito com 🐍 e ☕ por Arthur Liszkievich</sub>
 
 </div>
