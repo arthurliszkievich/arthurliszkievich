@@ -57,7 +57,7 @@ class Developer:
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,postgres,sqlite,mysql,docker,linux,bash,git,github,githubactions&perline=13" alt="stack" />
-<br/>
+
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
 ![Protobuf](https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat-square&logo=google&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
@@ -65,7 +65,6 @@ class Developer:
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=android&logoColor=white)
-<br/>
 
 **🤖 Engenharia aumentada por IA**
 
@@ -178,10 +177,11 @@ class Developer:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arthurliszkievich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurliszkievich&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+<img src="https://streak-stats.demolab.com/?user=arthurliszkievich&theme=tokyonight&hide_border=true" alt="streak" width="100%" />
 
-<img src="https://streak-stats.demolab.com/?user=arthurliszkievich&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://ghchart.rshah.org/2c5364/arthurliszkievich" alt="contribution chart" width="100%" />
+
+<sub>💡 Alguns cards de estatística do GitHub (como o <code>github-readme-stats.vercel.app</code>) sofrem rate-limit do serviço público e podem aparecer quebrados temporariamente — isso não é um erro do seu perfil.</sub>
 
 </div>
 
@@ -197,10 +197,18 @@ class Developer:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurliszkievich@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurliszkievich)
 
-<br/>
+</div>
 
 ---
 
-<sub>Feito com 🐍 e ☕ por Arthur Liszkievich</sub>
+<div align="center">
+
+### 🐍 Feito com Python, café e muita curiosidade técnica
+
+<sub>Este README é um documento vivo — atualizado conforme evoluo como desenvolvedor.</sub>
+
+<br/><br/>
+
+[![Voltar ao topo](https://img.shields.io/badge/⬆_Voltar_ao_topo-2c5364?style=for-the-badge)](#-arthur-liszkievich)
 
 </div>
