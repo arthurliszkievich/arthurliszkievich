@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" alt="Arthur Liszkievich - Back-End & Systems Engineer" width="100%" />
+<img src="./header.svg(1)" alt="Arthur Liszkievich - Back-End & Systems Engineer" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Python+%E2%80%A2+Django+%E2%80%A2+DRF+%E2%80%A2+gRPC;Criptografia+%E2%80%A2+Engenharia+Reversa+%E2%80%A2+APIs;Clean+Architecture+%E2%80%A2+SOLID+%E2%80%A2+Testes" alt="Typing SVG" />
@@ -202,6 +202,6 @@ class Developer:
 
 <br/>
 
-<img src="./footer.svg" alt="footer" width="100%" />
+<img src="./footer.svg(1)" alt="footer" width="100%" />
 
 </div>
