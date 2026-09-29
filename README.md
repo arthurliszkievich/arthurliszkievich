@@ -5,7 +5,7 @@
 ### 🚀 Back-End & Systems Engineer
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Python+%E2%80%A2+Django+%E2%80%A2+DRF+%E2%80%A2+gRPC;Criptografia+%E2%80%A2+Engenharia+Reversa+%E2%80%A2+APIs;Clean+Architecture+%E2%80%A2+SOLID+%E2%80%A2+Testes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=750&lines=Python+%E2%80%A2+Django+%E2%80%A2+DRF+%E2%80%A2+gRPC;Criptografia+%E2%80%A2+Engenharia+Reversa+%E2%80%A2+APIs;Smart+Team+Builder+%E2%80%A2+Hidden+Potential+Engine;Clean+Architecture+%E2%80%A2+SOLID+%E2%80%A2+Testes" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -114,7 +114,7 @@ class Developer:
 ### 📱 Sistemas & Multiplataforma
 - **Android (Termux):** solução para a compilação Rust/Maturin no ARM64 (Python 3.13)
 - **Carregamento dinâmico:** 65+ módulos headless, sem dependências de desktop
-- **Gatekeeper multi-tier:** validação de cargos Discord (Free, Mobile, VIP, APEX)
+- **Gatekeeper multi-tier:** validação de cargos Discord (Free, Mobile $4, VIP $5, APEX)
 - **Release management:** SemVer, patches (v1.4.7) e major (v2.0)
 
 </td>
@@ -138,11 +138,11 @@ class Developer:
 | | Contribuição | Detalhes |
 |---|---|---|
 | ⚔️ | **Overhaul do Ultimate Clash** | Correção de inversão semântica no payload `/finish` (`damage` vs `remaining_hp`), integração de `crypto.decrypt_sign()` e seleção de time por ciclo elemental com pausas humanas |
-| 🧠 | **Smart Category Auto-Team Builder** | Parser de missões endgame, cruzamento com o banco cifrado via Peewee, resolução heurística de condições "OU" e correção de deck fixo em `change_team.py` respeitando `config.deck` |
+| 🧠 | **Smart Category Auto-Team Builder** | Menu CLI interativo com suporte a Full Mono, Rainbow e seleção por categoria/custo. `ELEM_MAP`, `get_user_intent()`, `translate_intent_to_req()` e VIP gating em `run()`. 12/12 testes unitários com mocks |
 | 🔑 | **Google OAuth2 via CDP** | Captura de códigos em redirects de custom scheme pelos Performance Logs do Chrome, com decodificação em 4 camadas (`extract_code`) |
 | 🚦 | **Interceptor de sessão** | `mid_handler` com renovação transparente de token em `invalid_token` e cache TTL de 300s contra HTTP 429 |
-| 📱 | **Infra mobile (Termux)** | Contorno da compilação Rust/Maturin no Python 3.13 e resolução de dependências de desktop: de 8 para mais de 65 comandos no Android |
-| 💎 | **Hidden Potential em 1 clique** | Pipeline alinhado às regras da API (v5.31+ e v6.2.0), consumindo cópias pela trilha evolutiva sem reversões legadas |
+| 📱 | **Infra mobile (Termux)** | Contorno da compilação Rust/Maturin no Python 3.13 e resolução de dependências de desktop: de 8 para 65+ comandos no Android. Paywall Mobile $4 integrado ao Discord |
+| 💎 | **Hidden Potential Pipeline** *(em desenvolvimento)* | Arquitetura de 8 funções: box scanner com dupe protection, meta-priority route unlocking, reverse awakening lifecycle, orb inventory validation e batch activation até 100% do grid |
 
 </details>
 
@@ -181,7 +181,7 @@ class Developer:
 
 <img src="https://ghchart.rshah.org/2c5364/arthurliszkievich" alt="contribution chart" width="100%" />
 
-<sub>💡 Alguns cards de estatística do GitHub (como o <code>github-readme-stats.vercel.app</code>) </sub>
+<sub>💡 Alguns cards de estatística do GitHub (como o <code>github-readme-stats.vercel.app</code>) podem variar conforme a disponibilidade do serviço.</sub>
 
 </div>
 
