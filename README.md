@@ -1,121 +1,128 @@
 <div align="center">
-
+  
 #  Arthur Liszkievich
 
-### 🚀 Back-End & Systems Engineer
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=750&lines=Python+%E2%80%A2+Django+%E2%80%A2+DRF+%E2%80%A2+gRPC;Criptografia+%E2%80%A2+Engenharia+Reversa+%E2%80%A2+APIs;Smart+Team+Builder+%E2%80%A2+Hidden+Potential+Engine;Clean+Architecture+%E2%80%A2+SOLID+%E2%80%A2+Testes" alt="Typing SVG" />
-</a>
-
-<br/>
+### 🚀 Back-End Software Engineer | Python • gRPC • Microsserviços
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurliszkievich/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurliszkievich@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.liszkievich@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurliszkievich)
-
-![Visitas](https://komarev.com/ghpvc/?username=arthurliszkievich&label=Visitas&color=2c5364&style=flat-square)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre Mim
 
-Desenvolvedor **Back-End** focado em **arquiteturas de alta performance**, **APIs REST e gRPC**, **criptografia aplicada (AES/HMAC)** e **automação headless multiplataforma** (Windows, Linux e Android/Termux). Aplico **Clean Architecture**, **SOLID**, **resiliência de rede** e **defesa em profundidade** no dia a dia.
-
-Cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
+Desenvolvedor Back-End focado na construção de **arquiteturas distribuídas de alta performance**, **APIs RESTful** e **serviços gRPC**. Experiência prática na aplicação rigorosa de **Clean Architecture**, **SOLID**, **Design Patterns (Strategy, Repository)** e integridade transacional (ACID). Cursando Análise e Desenvolvimento de Sistemas (ADS).
 
 ```python
 class Developer:
-    name = "Arthur Liszkievich"
-    role = "Back-End & Systems Software Engineer"
-    education = "Análise e Desenvolvimento de Sistemas (ADS)"
-    location = "Brasil 🇧🇷"
-
-    stack = {
-        "languages": ["Python", "SQL", "Bash", "Protocol Buffers"],
-        "backend": ["Django", "DRF", "FastAPI", "Flask", "gRPC", "SQLAlchemy", "Peewee"],
-        "security": ["AES-CBC", "HMAC-SHA", "PyCryptodome", "SQLCipher", "OAuth2"],
-        "databases": ["PostgreSQL", "SQLite", "MySQL"],
-        "infra": ["Docker", "Linux", "Git", "GitHub Actions", "Pytest"],
-    }
-
-    principles = [
-        "🏗️ Clean Architecture, SOLID e Service Layer",
-        "🔐 Criptografia aplicada e bancos cifrados",
-        "⏱️ Resiliência: retry com jitter, renovação de token, cache TTL",
-        "📱 Multiplataforma, inclusive ambientes restritos (Termux ARM64)",
-        "🧪 Testes automatizados e CI/CD",
-    ]
+    def __init__(self):
+        self.name = "Arthur Liszkievich"
+        self.role = "Back-End Software Engineer"
+        self.education = "Análise e Desenvolvimento de Sistemas (ADS)"
+        self.location = "Brasil 🇧🇷"
+        self.stack = {
+            "languages": ["Python", "SQL", "Protocol Buffers", "JavaScript"],
+            "backend": ["gRPC", "FastAPI", "Django", "DRF", "SQLAlchemy"],
+            "databases": ["PostgreSQL", "MySQL", "SQLite"],
+            "infra": ["Docker", "Git", "GitHub Actions", "Pytest", "Linux"]
+        }
+    
+    def principles(self):
+        return [
+            "🏗️ Clean Architecture, SOLID e Service Layer",
+            "⚡ Comunicação binária de alta performance (gRPC / Protobuf)",
+            "🛡️ Transações atômicas (ACID) e autenticação segura (JWT)",
+            "⏱️ Cache e resiliência de rede (retry, TTL)",
+            "🐳 Conteinerização e ambientes isolados com Docker",
+            "🧪 Testes automatizados e CI/CD"
+        ]
+    
+    def say_hi(self):
+        return "Vamos construir sistemas escaláveis e inteligentes juntos! 🚀"
 ```
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,postgres,sqlite,mysql,docker,linux,bash,git,github,githubactions&perline=13" alt="stack" />
+### ⚡ Back-End, Comunicação & Microsserviços
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
+![Protocol Buffers](https://img.shields.io/badge/Protobuf-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
-![Protobuf](https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat-square&logo=google&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=android&logoColor=white)
+### 🗄️ Bancos de Dados & Persistência
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**🤖 Engenharia aumentada por IA**
+### 🐳 DevOps, Qualidade & Ferramentas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![Kiro](https://img.shields.io/badge/Kiro-6E56CF?style=flat-square&logo=amazonaws&logoColor=white)
+### 🤖 AI-Assisted Engineering
+![Claude](https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro_AI-6366F1?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 Expertise
+## 💼 Expertise & Arquitetura
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🔐 Criptografia & Engenharia Reversa
-- **REST proprietário:** montagem e consumo de payloads criptografados (AES-CBC + HMAC)
-- **SQLCipher:** consultas relacionais via Peewee em bancos cifrados
-- **OAuth2 via CDP:** captura de códigos de autorização com Chrome DevTools Protocol
-- **Parser em camadas:** custom schemes, URL encoding e regex
+### ⚡ Comunicação & Microsserviços
+- ✅ **gRPC & Protocol Buffers** de alta performance
+- ✅ **APIs RESTful** padronizadas e documentadas
+- ✅ **Autenticação Segura** (JWT, Hashing de Senhas)
+- ✅ **Resiliência de rede:** retry, timeout e cache com TTL
+- ✅ **Injeção de Dependências** e desacoplamento
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🧠 Algoritmos & Regras de Negócio
-- **Seleção multicritério:** ranking por tupla hierárquica (raridade, nível, SA, potencial)
-- **Condições "OU":** heurística que elege a categoria com maior score acumulado
-- **Ciclo de vantagem elemental:** PHY → INT → TEQ → AGL → STR
-- **Defesa em profundidade:** guard clauses e proteção de ativos raros com `frozenset`
+### 🏗️ Arquitetura & Engenharia de Software
+- ✅ **SOLID** (com ênfase em SRP, OCP e DIP)
+- ✅ **Design Patterns** (Strategy, Repository, Factory)
+- ✅ **Clean Architecture** e Service Layer isolada
+- ✅ **Transações Atômicas (ACID)** com Rollback seguro
+- ✅ **Testes Automatizados & TDD** (100% Service Coverage)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### ⚡ Resiliência & Confiabilidade
-- **Ciclo de vida de tokens:** interceptor `mid_handler` com renovação de Bearer e reenvio atômico
-- **Anti-429:** cache TTL em memória (300s) protegendo a API do Discord
-- **Retry com jitter:** pausas aleatórias em loops de automação
-- **Fallback gracioso:** preserva estado em oscilações de rede
+### 🗄️ Bancos de Dados & Infraestrutura
+- ✅ Modelagem relacional e integridade referencial
+- ✅ **SQLAlchemy ORM** avançado e Django ORM
+- ✅ **Docker & Docker Compose** para isolamento total
+- ✅ **CI/CD Pipelines** com GitHub Actions
+- ✅ Versionamento semântico com **Git Flow**
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 📱 Sistemas & Multiplataforma
-- **Android (Termux):** solução para a compilação Rust/Maturin no ARM64 (Python 3.13)
-- **Carregamento dinâmico:** 65+ módulos headless, sem dependências de desktop
-- **Gatekeeper multi-tier:** validação de cargos Discord (Free, Mobile $4, VIP $5, APEX)
-- **Release management:** SemVer, patches (v1.4.7) e major (v2.0)
+### 🤖 Engenharia Aumentada por IA
+- ✅ **Pair Programming Agêntico** (Claude, Antigravity, Kiro)
+- ✅ **Engenharia de Contexto** e especificação arquitetural
+- ✅ **Refatoração Assistida por IA** com garantia de testes
+- ✅ Automação de tarefas repetitivas e pipelines CI/CD
 
 </td>
 </tr>
@@ -123,53 +130,48 @@ class Developer:
 
 ---
 
-## 🎯 Projetos em destaque
+## 🎯 Projetos em Destaque
 
-### 🛡️ Yoda Engine & Dokkan Bot
-> Automação headless e engenharia reversa de protocolo para *Dragon Ball Z Dokkan Battle*.
+### 🛒 [E-Commerce Microservice - gRPC & PostgreSQL](https://github.com/arthurliszkievich/ecommerce-grpc)
+Backend completo de e-commerce construído com foco em **alta performance**, **arquitetura em camadas** e **comunicação binária via gRPC**.
 
-**Papel:** Core Developer  
-**Tecnologias:** `Python` `PyCryptodome` `Peewee` `SQLCipher` `CDP` `Flask` `Termux ARM64` `Linux`
+- **Tecnologias:** Python 3.12, gRPC, Protocol Buffers, PostgreSQL (Docker), SQLAlchemy, SOLID
+- **Destaques:**
+  - ✅ Comunicação binária ultra-rápida via gRPC/Protobuf
+  - ✅ Arquitetura em camadas: `Models` ➔ `Repositories` ➔ `Services` ➔ `Validators` ➔ `gRPC Servicers`
+  - ✅ **Baixa de Estoque Atômica:** Controle transacional com rollback automático em caso de falta de estoque
+  - ✅ **Sistema de Descontos Extensível (OCP):** Padrão *Strategy* para cálculo dinâmico de cupons e descontos
+  - ✅ Persistência relacional em PostgreSQL isolado via container Docker
 
-<details>
-<summary><b>Ver principais contribuições técnicas</b></summary>
-<br/>
+---
 
-| | Contribuição | Detalhes |
-|---|---|---|
-| ⚔️ | **Overhaul do Ultimate Clash** | Correção de inversão semântica no payload `/finish` (`damage` vs `remaining_hp`), integração de `crypto.decrypt_sign()` e seleção de time por ciclo elemental com pausas humanas |
-| 🧠 | **Smart Category Auto-Team Builder** | Menu CLI interativo com suporte a Full Mono, Rainbow e seleção por categoria/custo. `ELEM_MAP`, `get_user_intent()`, `translate_intent_to_req()` e VIP gating em `run()`. 12/12 testes unitários com mocks |
-| 🔑 | **Google OAuth2 via CDP** | Captura de códigos em redirects de custom scheme pelos Performance Logs do Chrome, com decodificação em 4 camadas (`extract_code`) |
-| 🚦 | **Interceptor de sessão** | `mid_handler` com renovação transparente de token em `invalid_token` e cache TTL de 300s contra HTTP 429 |
-| 📱 | **Infra mobile (Termux)** | Contorno da compilação Rust/Maturin no Python 3.13 e resolução de dependências de desktop: de 8 para 65+ comandos no Android. Paywall Mobile $4 integrado ao Discord |
-| 💎 | **Hidden Potential Pipeline** *(em desenvolvimento)* | Arquitetura de 8 funções: box scanner com dupe protection, meta-priority route unlocking, reverse awakening lifecycle, orb inventory validation e batch activation até 100% do grid |
+### 🐾 [ZoeVet - Gestão Veterinária & Suporte à Decisão Clínica](https://github.com/arthurliszkievich/projeto-veterinaria)
+Sistema robusto de gestão clínica com **Clean Architecture**, **Service Layer Pattern** e motor inteligente de diagnóstico baseado em estatística clínica.
 
-</details>
+- **Tecnologias:** Python 3.12, Django 5, DRF, PostgreSQL 16, Docker Compose, Pytest, GitHub Actions
+- **Destaques:**
+  - 🧠 **Motor de Diagnóstico Inteligente:** Algoritmo baseado em **F1-Score** que correlaciona sintomas e sugere diagnósticos clínicos balanceando precisão e sensibilidade
+  - 🏛️ **Clean Architecture & Service Layer:** Regras de negócio 100% isoladas (`DiagnosticoService`, `ConsultaService`, `TutorService`), reduzindo em 67% o acoplamento das Views
+  - 🧪 **100% de Cobertura de Testes** na Service Layer com Pytest
+  - 🐳 **Ambiente Conteinerizado:** Docker Compose configurado para dev e prod com PostgreSQL 16 e pipeline CI/CD ativa
 
-<br/>
+---
 
-### 🛒 E-Commerce Microservice
-> Backend de e-commerce com comunicação binária via gRPC e arquitetura em camadas.
+### 🤖 Contribuições — Automação em Python (projeto privado)
+Contribuições em um bot de automação em Python, com foco em resiliência de integração com APIs, cache e algoritmos. *Código-fonte privado; posso detalhar a arquitetura em conversa.*
 
-**Tecnologias:** `Python 3.12` `gRPC` `Protobuf` `PostgreSQL` `SQLAlchemy` `Docker`
+- **Tecnologias:** Python, REST APIs, Peewee ORM, SQLite, Git
+- **Destaques:**
+  - ⏱️ **Cache com TTL:** redução de chamadas repetidas a uma API externa, evitando limite de requisições (HTTP 429)
+  - 🔁 **Cliente HTTP resiliente:** renovação automática de tokens expirados, com retry e tratamento de falhas de rede
+  - 🧠 **Algoritmo de ranqueamento multicritério** com consultas relacionais via ORM
 
-- ⚡ **gRPC + Protobuf:** baixa latência e tipagem estrita
-- 🏛️ **Camadas:** `Models → Repositories → Services → Validators → gRPC Servicers`
-- 🛡️ **Baixa de estoque atômica:** transações com rollback automático (ACID)
-- 🎯 **Strategy (OCP):** motor extensível para cupons, descontos e regras de checkout
-- 🐳 **PostgreSQL em container** isolado
+---
 
-<br/>
+### 💳 [Gateway de Pagamento & Processamento de Transações](https://github.com/arthurliszkievich/GatewayPagamento)
+Modelagem e processamento de transações financeiras com controle de status e validação de payload.
 
-### 🐾 ZoeVet
-> Gestão clínica veterinária com suporte à decisão diagnóstica.
-
-**Tecnologias:** `Python 3.12` `Django 5` `DRF` `PostgreSQL 16` `Docker Compose` `Pytest` `GitHub Actions`
-
-- 🧠 **Motor de diagnóstico com F1-Score:** correlaciona sintomas equilibrando precisão e sensibilidade
-- 🏛️ **Service Layer isolada:** `DiagnosticoService`, `ConsultaService` e `TutorService`, com redução de 67% na complexidade das Views
-- 🧪 **100% de cobertura** na camada de serviços com Pytest
-- 🐳 **Docker Compose** para dev e prod, com CI/CD no GitHub Actions
+**Tecnologias:** Python, APIs REST, PostgreSQL, SQLite, Modelagem Relacional
 
 ---
 
@@ -177,36 +179,39 @@ class Developer:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=arthurliszkievich&theme=tokyonight&hide_border=true" alt="streak" width="100%" />
-
-<img src="https://ghchart.rshah.org/2c5364/arthurliszkievich" alt="contribution chart" width="100%" />
-
-<sub>💡 Alguns cards de estatística do GitHub (como o <code>github-readme-stats.vercel.app</code>) podem variar conforme a disponibilidade do serviço.</sub>
-
-</div>
-
----
-
-## 📫 Vamos conversar?
-
-💼 Aberto a oportunidades como **Desenvolvedor Back-End / Engenheiro de Software** (Python, APIs, microsserviços).
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurliszkievich/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurliszkievich@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurliszkievich)
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurliszkievich&theme=tokyonight" alt="Profile Details" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurliszkievich&theme=tokyonight" alt="Top Languages" width="400"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
+## 📫 Vamos Conversar?
+
 <div align="center">
 
-### 🐍 Feito com Python e muita curiosidade técnica!
+💼 **Aberto a oportunidades** para posições de Back-End (Python / Microsserviços / APIs).
 
-<sub>Este README é um documento vivo — atualizado conforme evoluo como desenvolvedor.</sub>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurliszkievich/)
+[![Gmail](https://img.shields.io/badge/Gmail-Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.liszkievich@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Seguir-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurliszkievich)
 
-<br/><br/>
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arthurliszkievich&color=58A6FF&style=for-the-badge&label=Visualizações+do+Perfil" alt="Profile views"/>
+  
+  **Feito com dedicação por Arthur Liszkievich**
+</div>
 
 </div>
